@@ -45,7 +45,6 @@ class LoginScreen(GridLayout):
         
         self.cols = 2
         
-        
         self.username = TextInput(multiline = False)
         
         
